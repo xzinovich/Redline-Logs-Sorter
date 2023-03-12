@@ -4,7 +4,7 @@ This is a simple Python script that sorts IP addresses from a log file by their 
 ### Getting Started
 To use this script, follow these steps:
 
-Download the redline_logs_sorter.py file to your local machine.
+Download the main.py file to your local machine.
 Open the file and update the log file name and path as needed.
 Run the script in a Python environment.
 Prerequisites
